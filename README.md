@@ -4,10 +4,10 @@ Code (Jupyter Notebooks) for Coursera - [Machine Learning and Reinforcement Lear
 This repository contains all the code I write as part of this Specialization.
 
 ## Guided Tour of Machine Learning in Finance
-1. [Euclidean Distance Calculation]()
-2. [Linear Regression](linear_regress_m1_ex2_v3.ipynb)
-3. [Tobit Regression](Tobit_regression_m1_ex3_v4.ipynb)
-4. [Bank defaults prediction using FDIC dataset](https://github.com/AayushMandhyan/ML-RL-for-Finance/blob/master/Guided%20Tour%20of%20Machine%20Learning%20in%20Finance/linear_regress_m1_ex2_v4-newV.ipynb)
+1. [Euclidean Distance Calculation](Guided%20Tour%20of%20Machine%20Learning%20in%20Finance/Euclidian_Distance_m1_ex1_v4-newV.ipynb)
+2. [Linear Regression](https://github.com/AayushMandhyan/ML-RL-for-Finance/blob/master/Guided%20Tour%20of%20Machine%20Learning%20in%20Finance/linear_regress_m1_ex2_v4-newV.ipynb)
+3. [Tobit Regression](https://github.com/AayushMandhyan/ML-RL-for-Finance/blob/master/Guided%20Tour%20of%20Machine%20Learning%20in%20Finance/Tobit_regression_m1_ex3_v4-newV.ipynb)
+4. [Bank defaults prediction using FDIC dataset](https://github.com/AayushMandhyan/ML-RL-for-Finance/blob/master/Guided%20Tour%20of%20Machine%20Learning%20in%20Finance/Bank_failure_m1_ex4_v4-newV.ipynb)
 
 ## Fundamentals of Machine Learning in Finance
 1. [Random Forests And Decision Trees](Bank_failure_rand_forests_m2_ex1.ipynb)
