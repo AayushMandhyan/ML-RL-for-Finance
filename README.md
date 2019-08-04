@@ -10,7 +10,7 @@ This repository contains all the code I write as part of this Specialization.
 4. [Bank defaults prediction using FDIC dataset](Guided%20Tour%20of%20Machine%20Learning%20in%20Finance/Bank_failure_m1_ex4_v4-newV.ipynb)
 
 ## Fundamentals of Machine Learning in Finance
-1. [Random Forests And Decision Trees](Fundamentals%20of%20Machine%20Learning%20in%20Finance/Bank_failure_rand_forests_m2_ex1.ipynb)
+1. [Random Forests And Decision Trees](Fundamentals%20of%20Machine%20Learning%20in%20Finance/Bank_failure_rand_forests_m2_ex2.ipynb)
 2. [Eigen Portfolio construction via PCA](Fundamentals%20of%20Machine%20Learning%20in%20Finance/pca_eigen_portfolios_m2_ex3.ipynb)
 3. [Data Visualization with t-SNE](Fundamentals%20of%20Machine%20Learning%20in%20Finance/DJI_tSNE_m2_ex4_corrected.ipynb)
 4. [Absorption Ratio via PCA](Fundamentals%20of%20Machine%20Learning%20in%20Finance/absorp_ratio_m2_ex5.ipynb)
