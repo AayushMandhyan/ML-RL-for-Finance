@@ -7,7 +7,7 @@ This repository contains all the code I write as part of this Specialization.
 1. [Euclidean Distance Calculation]()
 2. [Linear Regression](linear_regress_m1_ex2_v3.ipynb)
 3. [Tobit Regression](Tobit_regression_m1_ex3_v4.ipynb)
-4. [Bank defaults prediction using FDIC dataset]("Guided Tour of Machine Learning in Finance/Bank_failure_m1_ex4_v3.ipynb")
+4. [Bank defaults prediction using FDIC dataset](https://github.com/AayushMandhyan/ML-RL-for-Finance/blob/master/Guided%20Tour%20of%20Machine%20Learning%20in%20Finance/linear_regress_m1_ex2_v4-newV.ipynb)
 
 ## Fundamentals of Machine Learning in Finance
 1. [Random Forests And Decision Trees](Bank_failure_rand_forests_m2_ex1.ipynb)
